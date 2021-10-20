@@ -1,4 +1,4 @@
-# proc<br><br>
+# proc<br>
 A python/processing pipeline for 1D/pseudo 2D nmr data.<br><br>
 For topspin:<br>
 hkmft.py = FT a series of spectra from a pseudo 2D experiment<br>
