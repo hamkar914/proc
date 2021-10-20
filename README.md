@@ -1,5 +1,5 @@
 # proc<br>
-A python/processing pipeline for 1D/pseudo 2D nmr data.<br><br>
+A python/topspin processing pipeline for 1D/pseudo 2D nmr data <br>primarily intended for saturation recovery data and similiar...<br>
 For topspin:<br>
 hkmft.py = FT a series of spectra from a pseudo 2D experiment<br>
 hkreg1d.py = extract a 1D spectrum+paramters as a .txt file<br>
